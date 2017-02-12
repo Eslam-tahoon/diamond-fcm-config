@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "135410321404",
-    "firebase_url": "https://sdc-cards.firebaseio.com",
-    "project_id": "sdc-cards",
-    "storage_bucket": "sdc-cards.appspot.com"
+    "project_number": "601692551824",
+    "firebase_url": "https://socialclub-1486628100647.firebaseio.com",
+    "project_id": "socialclub-1486628100647",
+    "storage_bucket": "socialclub-1486628100647.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:135410321404:android:f9dff1d936f1b5c5",
+        "mobilesdk_app_id": "1:601692551824:android:2790af92d9751acf",
         "android_client_info": {
-          "package_name": "com.dl.sdccards"
+          "package_name": "com.dl.socialclub"
         }
       },
       "oauth_client": [
         {
-          "client_id": "135410321404-r635mvvkd78tvd5p9a8dbtgv9lek92s2.apps.googleusercontent.com",
+          "client_id": "601692551824-5ccb2dejcf6tu7mlhjoaea44bg6v8cv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dl.socialclub",
+            "certificate_hash": "EA425C783CE0A4E8A34BF0AB30B4215E6CC07569"
+          }
+        },
+        {
+          "client_id": "601692551824-m243hjk1nss894qkbmc465s7448rsf3k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC_W3kAcySDRcd6bY4Sp3-JSSVKt2xX3Mo"
+          "current_key": "AIzaSyBExx2KZ7n5fIvmoOyFiYHneWywJnGYzig"
         }
       ],
       "services": {
@@ -29,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601692551824-m243hjk1nss894qkbmc465s7448rsf3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601692551824-85i6ni542hkdtn9jn5j0fekf4b6pba4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dl.socialclub"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
