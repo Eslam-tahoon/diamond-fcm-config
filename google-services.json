@@ -1,59 +1,52 @@
 {
   "project_info": {
-    "project_number": "601692551824",
-    "firebase_url": "https://socialclub-1486628100647.firebaseio.com",
-    "project_id": "socialclub-1486628100647",
-    "storage_bucket": "socialclub-1486628100647.appspot.com"
+    "project_number": "59546488995",
+    "firebase_url": "https://diamond-clinic.firebaseio.com",
+    "project_id": "diamond-clinic",
+    "storage_bucket": "diamond-clinic.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:601692551824:android:2790af92d9751acf",
+        "mobilesdk_app_id": "1:59546488995:android:2312f1a13f9b892f",
         "android_client_info": {
-          "package_name": "com.dl.socialclub"
+          "package_name": "com.ecubes.diamond"
         }
       },
       "oauth_client": [
         {
-          "client_id": "601692551824-5ccb2dejcf6tu7mlhjoaea44bg6v8cv2.apps.googleusercontent.com",
+          "client_id": "59546488995-lb4v2maq96t0btedif9sbh161re065eq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.dl.socialclub",
-            "certificate_hash": "EA425C783CE0A4E8A34BF0AB30B4215E6CC07569"
+            "package_name": "com.ecubes.diamond",
+            "certificate_hash": "ea425c783ce0a4e8a34bf0ab30b4215e6cc07569"
           }
         },
         {
-          "client_id": "601692551824-m243hjk1nss894qkbmc465s7448rsf3k.apps.googleusercontent.com",
+          "client_id": "59546488995-9al9ih9ulkiimfclgtta5m2bvths12tb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBExx2KZ7n5fIvmoOyFiYHneWywJnGYzig"
+          "current_key": "AIzaSyAgh1_Nf_a1h-_Gifo9FYCPkRmrc-htkCo"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "601692551824-m243hjk1nss894qkbmc465s7448rsf3k.apps.googleusercontent.com",
+              "client_id": "59546488995-9al9ih9ulkiimfclgtta5m2bvths12tb.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "601692551824-85i6ni542hkdtn9jn5j0fekf4b6pba4n.apps.googleusercontent.com",
+              "client_id": "59546488995-miacblmasg6i4rft9g16fmknjid5hn29.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.dl.socialclub"
+                "bundle_id": "com.ecubes.diamond"
               }
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
