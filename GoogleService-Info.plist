@@ -2,39 +2,37 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
-	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>601692551824-85i6ni542hkdtn9jn5j0fekf4b6pba4n.apps.googleusercontent.com</string>
+	<string>59546488995-miacblmasg6i4rft9g16fmknjid5hn29.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.601692551824-85i6ni542hkdtn9jn5j0fekf4b6pba4n</string>
+	<string>com.googleusercontent.apps.59546488995-miacblmasg6i4rft9g16fmknjid5hn29</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>59546488995-lb4v2maq96t0btedif9sbh161re065eq.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAGJ9RDLeUQMUxw-7YjYrrZh-2Z6V1eqBw</string>
+	<string>AIzaSyCsebhgjPu-9XzdlrL9CT0CWAF0vAql16c</string>
 	<key>GCM_SENDER_ID</key>
-	<string>601692551824</string>
+	<string>59546488995</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dl.socialclub</string>
+	<string>com.ecubes.diamond</string>
 	<key>PROJECT_ID</key>
-	<string>socialclub-1486628100647</string>
+	<string>diamond-clinic</string>
 	<key>STORAGE_BUCKET</key>
-	<string>socialclub-1486628100647.appspot.com</string>
+	<string>diamond-clinic.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false/>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:601692551824:ios:2790af92d9751acf</string>
+	<string>1:59546488995:ios:2312f1a13f9b892f</string>
 	<key>DATABASE_URL</key>
-	<string>https://socialclub-1486628100647.firebaseio.com</string>
+	<string>https://diamond-clinic.firebaseio.com</string>
 </dict>
 </plist>
